@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Dean 👋
 
 - 🔭 I’m currently working on a hitchhiking application
 - 🌱 I’m currently learning machine learning with python
