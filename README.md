@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on a hitchhiking application
 - 🌱 I’m currently learning machine learning with python
-- 👯 I’m looking to collaborate on any python and javascript projects
-- 🤔 I’m looking for help with AI and machine learning
-- 💬 Ask me about NFTs and the metaverse
+- 👯 I’m looking to collaborate on any python, javascript and flutter projects
 
 :mailbox: How to reach me: 
 
